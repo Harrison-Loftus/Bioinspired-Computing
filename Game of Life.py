@@ -87,3 +87,8 @@ parameters = {
 
 
 animation_plot(Game_of_Life, parameters)
+
+# references
+# https://agentpy.readthedocs.io/en/latest/agentpy_flocking.html
+# https://pi.math.cornell.edu/~lipa/mec/lesson6.html
+# https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
